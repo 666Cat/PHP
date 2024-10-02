@@ -1,6 +1,6 @@
-INTEGRANTES:
-Rodrigo Veizaga
-Karen Lizarazu
+# INTEGRANTES:
+# Rodrigo Veizaga Guzman
+# Karen Lizarazu Colque
 
 
 # Guía de Instalación y Configuración de XAMPP, PHP y Visual Studio Code
