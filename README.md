@@ -1,6 +1,6 @@
 # INTEGRANTES:
-# Rodrigo Veizaga Guzman
-# Karen Lizarazu Colque
+## Rodrigo Veizaga Guzman
+## Karen Lizarazu Colque
 
 
 # Guía de Instalación y Configuración de XAMPP, PHP y Visual Studio Code
@@ -77,3 +77,21 @@ Vamos a crear un archivo PHP simple que mostrará "¡Hola mundo!" en tu navegado
 4. Ve a `http://localhost/index.php`.
 
 Si todo está configurado correctamente, deberías ver "¡Hola mundo!" en la pantalla del navegador.
+
+## 5. Ejecutar el Archivo PHP desde Git Bash
+Abre Git Bash dentro de Visual Studio Code:
+Puedes abrir una nueva terminal presionando Ctrl + `.
+Navega al directorio donde se encuentra tu archivo PHP usando el comando cd. Por ejemplo:
+bash
+cd /c/ruta/a/tu/carpeta
+
+Ejecuta el servidor PHP usando el siguiente comando:
+bash
+php -S localhost:8000
+
+Esto levantará un servidor local en el puerto 8000.
+Abre tu navegador y ve a la dirección:
+text
+http://localhost:8000/hola.php
+
+Esto mostrará el mensaje "Hola Mundo" en tu navegador.
