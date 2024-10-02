@@ -1,3 +1,8 @@
+INTEGRANTES:
+Rodrigo Veizaga
+Karen Lizarazu
+
+
 # Guía de Instalación y Configuración de XAMPP, PHP y Visual Studio Code
 
 ## 1. Instalación de XAMPP
